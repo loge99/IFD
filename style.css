@@ -1,3 +1,22 @@
-.header {
-    background-color: red;
+.inhalt {
+    background-color: #f8f0e8;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 500px;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+div {
+    margin-bottom: 50px;
+    padding: 50px;
+    background-color: #d8d8d8;
+}
+
+img {
+    width: 50%;
 }
