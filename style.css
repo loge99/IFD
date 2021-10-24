@@ -9,14 +9,20 @@
 
 body {
     font-family: Helvetica, sans-serif;
+    padding-bottom: 50px;
+
 }
 
 div {
     margin-bottom: 50px;
     padding: 50px;
-    background-color: #d8d8d8;
+    background-color: #ececec;
 }
 
 img {
     width: 50%;
+}
+
+main > div > ol > li {
+    padding-bottom: 20px;
 }
